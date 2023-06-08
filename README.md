@@ -1,4 +1,4 @@
-# Olá, sou o [Tarcio Passos Freitas] 👋
+# Olá, sou o Tarcio Passos Freitas 👋
 
 Sou um Desenvolvedor Backend .NET com mais de um ano de experiência profissional. Atualmente, estou trabalhando como desenvolvedor júnior numa empresa de TI, onde tenho a oportunidade de aprofundar ainda mais minhas habilidades em .NET e outras tecnologias, como por exemplo o Flutter.
 
