@@ -16,7 +16,6 @@ Sou um Desenvolvedor Backend .NET com mais de um ano de experiência profissiona
 ![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Service-AWS_Lambda-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
 
 
 ## 📈 Estatísticas do GitHub
